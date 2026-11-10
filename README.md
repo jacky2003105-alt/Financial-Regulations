@@ -1,5 +1,7 @@
 # 金融法規期中題庫
 
-191 題按八個單元整理。直接開啟 index.html 可離線閱讀，外部參考來源需要網路。首頁可搜尋關鍵字或三位數題號；各單元可切換題目，每題可獨立收合答案與解析。PDF 依單元排列，每題一頁，附單元與題號書籤。
+191 題依講義分成五章、24 節，全部在 index.html 一頁。每題的答案與詳解預設顯示，可個別收起，頁首與右下角另有「隱藏全部解答／顯示全部解答」。可搜尋關鍵字或三位數題號。舊的單元頁（banking.html 等）會自動轉到 index.html 的對應章節。
 
-將本資料夾內的 index.html、單元頁、assets、pdf、README.md 及 .nojekyll 一併放進 GitHub Pages 的發布目錄。若是新專案，在 Settings → Pages 選擇分支及對應發布目錄。無需建置或上傳原始題庫與簡報。
+PDF 在 pdf/金融法規期中題庫.pdf，依章節排列、附書籤，答案與詳解全部展開。
+
+把 index.html、各單元轉址頁、assets、pdf、README.md 與 .nojekyll 放進 GitHub Pages 的發布目錄即可，不需要建置。
